@@ -20,9 +20,6 @@ Scrapy フレームワークのインストール
 ```pip install scrapy```
 
 Dockerの準備  
-
-## スクレイピング
-
 ヤフーニュースのビジネスページをスクレイピング
 
 Scrapyの構成  
@@ -62,3 +59,9 @@ yahoo_news.py の編集
 ## Lazy loading 画面のスクレイピング
 
 ## Dropbox と連携する
+
+## Cloud サービスを使ってスクレイピング
+
+[Zyte](https://www.zyte.com)にデプロイ
+
+## Cloud サービスで定期的実行をする
